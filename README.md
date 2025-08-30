@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Professor de animação e modelagem 3D;
+  🔭 Professor de animação e modelagem 3D;
 - 🌱 Estudante de análise e desenvolvimento de sistetmas;
 - 👯 Este perfil será focado em compartilhamento de projetos pessoais na área de jogos e desenvolvimento de sistemas;
 - 🤔 Pretendo compartilhar meus projetos e buscar sugestões com relação à eles;
